@@ -11,7 +11,6 @@
 <table>
   <tr>
     <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=Elieel5&show_icons=true ></td>
-    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Elieel5&show_icons=true&layout=compact></td>
   </tr>  
 </table>
 </center>
